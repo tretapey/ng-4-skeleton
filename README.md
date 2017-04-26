@@ -10,6 +10,8 @@ This project is an application skeleton for an Angular 4 web app.
 * Bootstrap 3
 * Font awesome fonts
 * Scss styling
+* Added layout
+* Sticky footer
 
 ## Development server
 
