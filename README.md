@@ -2,6 +2,15 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.1.
 
+This project is an application skeleton for an Angular 4 web app.
+
+## Features
+
+* Angular 4 cli
+* Bootstrap 3
+* Font awesome fonts
+* Scss styling
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
